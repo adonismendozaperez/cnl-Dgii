@@ -11,17 +11,17 @@ $ npm install
 Para hacer una consulta, ingresamos: 
 
 ```sh
-$ node app --doc rnc
+$ node app --doc rnc/cedula
 ```
 o
 
 ```sh
-$ node app -d rnc
+$ node app -d rnc/cedula
 ```
 
 NOTA: en el parámetro rnc introduciran el número de rnc o número de identidad.
 
-##### Ejemplo
+## Ejemplo
 ```sh
 $ node app --doc 401007541
 ```
